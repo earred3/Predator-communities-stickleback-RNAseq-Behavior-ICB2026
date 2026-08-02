@@ -1,5 +1,5 @@
 # Predator-communities-stickleback-RNAseq-Behavior-ICB2026
-Code and supporting files for analyses of parental behavior and whole-brain gene expression in wild Alaskan threespine stickleback. Arredondo et al. 2026, ICB
+Code and supporting files for analyses of parental behavior and whole-brain gene expression in wild Alaskan threespined stickleback. Arredondo et al. 2026, ICB
 
 This repository contains the code and supporting files used for the behavioral and whole-brain RNA-sequencing analyses associated with the manuscript:
 
