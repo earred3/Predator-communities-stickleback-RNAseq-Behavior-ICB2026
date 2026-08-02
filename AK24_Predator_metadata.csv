@@ -1,0 +1,20 @@
+﻿ID,Lake,Treatment,Lake_type,BodyCondition,Embryo_stage,Parent_state,Batch
+CL10,Crystal,Trout,Pike,1.303807208,No eyes,Parenting,3
+CL5,Crystal,Pike,Pike,0.971860033,Other,Parenting,2
+CL6,Crystal,Char,Pike,1.137431008,No eyes,Parenting,3
+FG10,Finger,Trout,Pike,1.389247973,No eyes,Parenting,3
+FG5,Finger,Char,Pike,1.167908433,Other,Parenting,3
+HL1,Hope,Trout,No pike,1.588722341,Eyes,Parenting,4
+HL3,Hope,Char,No pike,1.637278997,Eyes,Parenting,2
+SP06,Spirit,Trout,No pike,0.957734924,None,Non-parenting,2
+SP11,Spirit,Pike,No pike,1.423442254,None,Non-parenting,2
+SP61,Spirit,Char,No pike,1.043548367,None,Non-parenting,1
+SP62,Spirit,Pike,No pike,1.038867193,No eyes,Parenting,4
+SR10,South Rolly,Pike,Pike,0.606834749,Other,Parenting,2
+SR21,South Rolly,Pike,Pike,1.008531379,Eyes,Parenting,4
+SR22,South Rolly,Trout,Pike,1.198828026,No eyes,Parenting,4
+SR51,South Rolly,Char,Pike,1.096133671,None,Non-parenting,1
+SR52,South Rolly,Trout,Pike,1.079351957,Other,Parenting,4
+WT1,Watson,Pike,No pike,1.117694867,None,Non-parenting,2
+WT2,Watson,Char,No pike,1.462970695,No eyes,Parenting,1
+WT3,Watson,Trout,No pike,1.713045354,None,Non-parenting,3
