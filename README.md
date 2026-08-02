@@ -19,10 +19,10 @@ The repository includes:
 - R package and session information for reproducibility
 
 The primary analysis document is:
-20260721CodeForAnalyses_Predator-communities-with-invasive-pike-influence-parental-gene-expression-but-not-care-in-wild-Alaskan-stickleback.Rmd
+20260721CodeForAnalyses_Predator communities with invasive pike are associated with changes in parental care and brain gene expression in wild Alaskan stickleback.Rmd
 
 The corresponding rendered analysis is:
-20260721CodeForAnalyses_Predator-communities-with-invasive-pike-influence-parental-gene-expression-but-not-care-in-wild-Alaskan-stickleback.html
+20260721CodeForAnalyses_Predator communities with invasive pike are associated with changes in parental care and brain gene expression in wild Alaskan stickleback.html
 
 #Sequencing data
 
